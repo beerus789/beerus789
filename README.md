@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Satyam Prakash Srivastava
-- 👀 I’m interested Machine learning,and web development area
-- 🌱 I’m currently learning web development
+# 👋 Hi, I’m Satyam Prakash Srivastava  
+
+- 💻 Backend + AI Developer with **3 years of experience** in Python, Django, FastAPI, and system design.  
+- 🤖 Passionate about **Machine Learning, Generative
+
 - 💞️
 - 📫 How to reach me on email srivastavasatyamprakash@gmail.com
 
